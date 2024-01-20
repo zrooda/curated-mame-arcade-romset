@@ -2,7 +2,7 @@
 
 👉 [Click here for the raw list!](ROMSET)
 
-A hand-picked set of the "The Best | Weirdest | Memorable | Significant" Arcade games history has to offer (for MAME/FBNeo).
+A hand-picked set of the "Best | Weirdest | Memorable | Technical | Significant" Arcade games history has to offer (for MAME/FBNeo).
 
 - Includes Neo Geo
 - Expects a **non-merged** set ([What?](https://wiki.romvault.com/doku.php?id=merge_types))

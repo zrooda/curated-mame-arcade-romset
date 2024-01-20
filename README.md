@@ -12,3 +12,4 @@ _Make a PR if you're missing your favorite game!_
 
 ## Roadmap
 - Bash/PowerShell scripts that copy the relevant .zip files and CHDs from a full set
+- gamelist.xml and media for EmulationStation and other front-ends

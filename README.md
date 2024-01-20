@@ -5,7 +5,7 @@
 A hand-picked set of the "Best | Weirdest | Memorable | Technical | Significant" Arcade games history has to offer (for MAME/FBNeo).
 
 - Includes Neo Geo
-- Expects a **non-merged** set ([What?](https://wiki.romvault.com/doku.php?id=merge_types))
+- Expects a **non-merged** MAME set ([What?](https://wiki.romvault.com/doku.php?id=merge_types))
 - [RetroAchievements.org](https://retroachievements.org/) versions preferred
 
 _Make a PR if you're missing your favorite game!_

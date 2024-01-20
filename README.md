@@ -8,7 +8,7 @@ A hand-picked set of the "The Best | Weirdest | Memorable | Significant" Arcade 
 - Expects a **non-merged** set
 - [RetroAchievements.org](https://retroachievements.org/) versions preferred
 
-Make a PR if you're missing your favorite game!
+_Make a PR if you're missing your favorite game!_
 
 ## Roadmap
 - Bash/PowerShell scripts that copy the relevant .zip files and CHDs from a full set

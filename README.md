@@ -6,7 +6,7 @@ A hand-picked set of the "Best | Weirdest | Memorable | Technical | Significant"
 
 - Includes Neo Geo
 - Expects a **non-merged** MAME set ([What?](https://wiki.romvault.com/doku.php?id=merge_types))
-- [RetroAchievements.org](https://retroachievements.org/) versions preferred
+- [RetroAchievements.org](https://retroachievements.org/) supported versions preferred
 
 _Make a PR if you're missing your favorite game!_
 
